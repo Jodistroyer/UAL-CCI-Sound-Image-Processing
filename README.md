@@ -1,4 +1,4 @@
-# UAL-CCI-Sound-Image-Processing
+# UAL-CCI-Sound-Image-Processing-Portfolio
 
 ## Authorship
 A code project by Wong Jo-Hann
